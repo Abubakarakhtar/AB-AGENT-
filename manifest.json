@@ -1,0 +1,10 @@
+{
+  "name": "AB Agent",
+  "short_name": "AB Agent",
+  "description": "Your personal AI assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d17",
+  "theme_color": "#090d17",
+  "icons": []
+}
